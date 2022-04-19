@@ -1,5 +1,11 @@
 # Number Merge iOS Game
 
+[![Swift](https://github.com/5j54d93/Number-Merge-iOS-Game/actions/workflows/swift.yml/badge.svg)](https://github.com/5j54d93/Number-Merge-iOS-Game/actions/workflows/swift.yml)
+[![GitHub license](https://img.shields.io/github/license/5j54d93/Number-Merge-iOS-Game)](https://github.com/5j54d93/Number-Merge-iOS-Game/blob/main/LICENSE)
+![GitHub Repo stars](https://img.shields.io/github/stars/5j54d93/Number-Merge-iOS-Game)
+![GitHub repo size](https://img.shields.io/github/repo-size/5j54d93/Number-Merge-iOS-Game)
+![Platform](https://img.shields.io/badge/platform-iOS｜iPadOS｜macOS-lightgrey)
+
 Put two of the same number next to each other to have them merge and turn into a greater number. Keep merging and see how high in points you can go before you get stuck.
 
 > **iOS**：iPhone 13 Pro Max
