@@ -8,7 +8,7 @@
 import Foundation
 import SwiftUI
 
-struct Grid: Equatable {
+struct Grid {
     var value : Int = 0
     var gridColor : Color {
         switch self.value {
